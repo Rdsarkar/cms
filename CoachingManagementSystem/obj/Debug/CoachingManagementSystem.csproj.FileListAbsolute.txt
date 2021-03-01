@@ -1,0 +1,37 @@
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe.config
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.pdb
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.adPanel.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Course.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Login.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Properties.Resources.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Student.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Teacher.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.exe
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.pdb
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Salary.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.t_DashBoard.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allStudents.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allTeachers.resources
+C:\Users\HP\Documents\AIUB\11th Semester\C#\FINAL\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allCourses.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csprojAssemblyReference.cache
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.adPanel.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allCourses.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allStudents.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.allTeachers.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Course.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Login.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Properties.Resources.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Salary.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Student.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.Teacher.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.t_DashBoard.resources
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.GenerateResource.cache
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.csproj.CoreCompileInputs.cache
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.exe
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\obj\Debug\CoachingManagementSystem.pdb
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe.config
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.exe
+I:\Coding\C#\CMS\CoachingManagementSystemSln\CoachingManagementSystem\bin\Debug\CoachingManagementSystem.pdb
